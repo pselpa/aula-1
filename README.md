@@ -7,6 +7,9 @@
     // Ler e salvar o resultado
     var result = Console.ReadLine();
 
+    // Concatenar Textos
+    string text = $"Olá {variável}"
+
 ### Declarando variáveis e constantes
     var text = "meu texto"
     string text = "meu texto"

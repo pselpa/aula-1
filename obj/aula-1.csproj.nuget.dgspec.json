@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\aula-1\\aula-1.csproj": {}
+    "C:\\Patricia S\\aula-1\\aula-1.csproj": {}
   },
   "projects": {
-    "C:\\dev\\aula-1\\aula-1.csproj": {
+    "C:\\Patricia S\\aula-1\\aula-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\aula-1\\aula-1.csproj",
+        "projectUniqueName": "C:\\Patricia S\\aula-1\\aula-1.csproj",
         "projectName": "aula-1",
-        "projectPath": "C:\\dev\\aula-1\\aula-1.csproj",
+        "projectPath": "C:\\Patricia S\\aula-1\\aula-1.csproj",
         "packagesPath": "C:\\Users\\entra21\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\aula-1\\obj\\",
+        "outputPath": "C:\\Patricia S\\aula-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\entra21\\AppData\\Roaming\\NuGet\\NuGet.Config",

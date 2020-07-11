@@ -9,3 +9,14 @@ C:\dev\aula-1\obj\Debug\netcoreapp3.1\aula-1.AssemblyInfoInputs.cache
 C:\dev\aula-1\obj\Debug\netcoreapp3.1\aula-1.AssemblyInfo.cs
 C:\dev\aula-1\obj\Debug\netcoreapp3.1\aula-1.dll
 C:\dev\aula-1\obj\Debug\netcoreapp3.1\aula-1.pdb
+C:\Patricia S\aula-1\obj\Debug\netcoreapp3.1\aula-1.csprojAssemblyReference.cache
+C:\Patricia S\aula-1\obj\Debug\netcoreapp3.1\aula-1.AssemblyInfoInputs.cache
+C:\Patricia S\aula-1\obj\Debug\netcoreapp3.1\aula-1.AssemblyInfo.cs
+C:\Patricia S\aula-1\obj\Debug\netcoreapp3.1\aula-1.dll
+C:\Patricia S\aula-1\obj\Debug\netcoreapp3.1\aula-1.pdb
+C:\Patricia S\aula-1\bin\Debug\netcoreapp3.1\aula-1.exe
+C:\Patricia S\aula-1\bin\Debug\netcoreapp3.1\aula-1.deps.json
+C:\Patricia S\aula-1\bin\Debug\netcoreapp3.1\aula-1.runtimeconfig.json
+C:\Patricia S\aula-1\bin\Debug\netcoreapp3.1\aula-1.runtimeconfig.dev.json
+C:\Patricia S\aula-1\bin\Debug\netcoreapp3.1\aula-1.dll
+C:\Patricia S\aula-1\bin\Debug\netcoreapp3.1\aula-1.pdb
